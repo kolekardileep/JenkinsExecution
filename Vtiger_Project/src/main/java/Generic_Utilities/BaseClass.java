@@ -98,6 +98,8 @@ public class BaseClass {
 	public void as() throws Throwable {
 		dlib.dataBaseClose();
 		System.out.println("close database");
+		System.out.println("close database");
+		System.out.println("close database");
 
 	}
 }
