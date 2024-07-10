@@ -98,7 +98,6 @@ public class BaseClass {
 	public void as() throws Throwable {
 		dlib.dataBaseClose();
 		System.out.println("close database");
-		System.out.println("WELCOME TO JENKINS ON 10TH JULY 2024");
 
 	}
 }
